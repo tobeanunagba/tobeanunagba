@@ -24,24 +24,13 @@ function AboutMe() {
           <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-purple-600 via-pink-500 to-red-500 text-transparent bg-clip-text animate-bounce ">
             About Me
           </h2>
-          <p className="text-gray-600 leading-relaxed mb-6">
-            Hi, I’m tobechukwu Iyke-anunagba, a passionate front-end developer with a background
-            in computer science. I thrive on creating sleek, responsive, and
-            user-friendly web applications that bring ideas to life. My journey
-            has been shaped by hard work and resilience, especially during my
-            time in the ALX Frontend Program, where I honed my skills in
-            JavaScript, React, and modern web development practices. Completing
-            the program was no walk in the park, but it taught me perseverance
-            and the value of continuous learning.
-          </p>
-          <p className="text-gray-600 leading-relaxed mb-6">
-            When I’m not immersed in coding, you’ll find me exploring my other
-            passions: gaming, football, and indulging in delicious meals. These
-            hobbies keep me balanced and energized, fueling my creativity for
-            tackling complex coding challenges. I’m always eager to learn new
-            technologies and push the boundaries of what’s possible in web
-            development.
-          </p>
+         <p className="text-gray-600 leading-relaxed mb-6">
+  Hello! I’m Tobechukwu Iyke-Anunagba, a dedicated front-end developer with a strong foundation in computer science. I specialize in building modern, responsive, and user-centric web applications that bring visions to reality. My journey has been defined by determination and growth, especially during my time in the ALX Frontend Program, where I gained expertise in JavaScript, React, and contemporary web development techniques. Overcoming the program’s challenges taught me the importance of persistence and lifelong learning.
+</p>
+<p className="text-gray-600 leading-relaxed mb-6">
+  Outside of coding, I enjoy diving into my other passions—gaming, football, and savoring delicious meals. These activities keep me grounded, energized, and ready to tackle complex coding tasks with a fresh perspective. I’m constantly seeking opportunities to explore emerging technologies and redefine what’s achievable in the world of web development.
+</p>
+
           <div className="flex flex-wrap gap-4 justify-center md:justify-start mb-8">
             <span className="px-4 py-2 bg-indigo-500 text-white rounded-full shadow-md">
               JavaScript
