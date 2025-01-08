@@ -15,14 +15,13 @@ function Home() {
               <h1 className="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-600 via-pink-500 to-red-500 mb-6 ">
                 Hi, I'm Tobechukwu Iyke-anunagba
               </h1>
-              <p className="text-gray-700 leading-relaxed mb-6 ">
-                A front-end developer passionate about crafting responsive,
-                user-friendly web experiences. With a strong foundation in
-                JavaScript, React, and CSS, I enjoy tackling intricate design
-                challenges and delivering scalable, high-quality solutions. I’m
-                currently expanding my expertise into mobile app development to
-                create seamless cross-platform experiences.
-              </p>
+             <p className="text-gray-600 leading-relaxed mb-6">
+ a dedicated front-end developer with a strong foundation in computer science. I specialize in building modern, responsive, and user-centric web applications that bring visions to reality. My journey has been defined by determination and growth, especially during my time in the ALX Frontend Program, where I gained expertise in JavaScript, React, and contemporary web development techniques. Overcoming the program’s challenges taught me the importance of persistence and lifelong learning.
+</p>
+<p className="text-gray-600 leading-relaxed mb-6">
+  Outside of coding, I enjoy diving into my other passions—gaming, football, and savoring delicious meals. These activities keep me grounded, energized, and ready to tackle complex coding tasks with a fresh perspective. I’m constantly seeking opportunities to explore emerging technologies and redefine what’s achievable in the world of web development.
+</p>
+
               <div className="flex justify-center md:justify-start space-x-4">
                 {/* Social Media Icons */}
                 <a
