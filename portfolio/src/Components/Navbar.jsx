@@ -23,7 +23,7 @@ function Navbar() {
               to="/"
               className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-indigo-300 to-purple-400 hover:from-purple-400 hover:to-blue-300 transition-all duration-300 hover:animate-bounce"
             >
-              ANTHONY
+              PORTFOLIO
             </Link>
           </div>
 
