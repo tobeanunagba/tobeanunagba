@@ -13,7 +13,7 @@ function Home() {
             {/* Text Content */}
             <div className="p-7 max-w-lg text-center md:text-left">
               <h1 className="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-600 via-pink-500 to-red-500 mb-6 ">
-                Hi, I'm Tobechukwu Iyke-anunagba
+                Hi, I'm Tobechukwu Iyke-Anunagba
               </h1>
              <p className="text-gray-600 leading-relaxed mb-6">
  a dedicated front-end developer with a strong foundation in computer science. I specialize in building modern, responsive, and user-centric web applications that bring visions to reality. My journey has been defined by determination and growth, especially during my time in the ALX Frontend Program, where I gained expertise in JavaScript, React, and contemporary web development techniques. Overcoming the program’s challenges taught me the importance of persistence and lifelong learning.
