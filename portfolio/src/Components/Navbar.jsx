@@ -16,7 +16,7 @@ function Navbar() {
           <div className="flex items-center space-x-3">
             <div className="w-10 h-10 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-full flex items-center justify-center shadow-md">
               <span className="text-white text-xl font-extrabold animate-spin">
-                A
+                TR
               </span>
             </div>
             <Link
