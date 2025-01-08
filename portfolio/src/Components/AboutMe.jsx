@@ -26,8 +26,6 @@ function AboutMe() {
           </h2>
          <p className="text-gray-600 leading-relaxed mb-6">
   Hello! I’m Tobechukwu Iyke-Anunagba, a dedicated front-end developer with a strong foundation in computer science. I specialize in building modern, responsive, and user-centric web applications that bring visions to reality. My journey has been defined by determination and growth, especially during my time in the ALX Frontend Program, where I gained expertise in JavaScript, React, and contemporary web development techniques. Overcoming the program’s challenges taught me the importance of persistence and lifelong learning.
-</p>
-<p className="text-gray-600 leading-relaxed mb-6">
   Outside of coding, I enjoy diving into my other passions—gaming, football, and savoring delicious meals. These activities keep me grounded, energized, and ready to tackle complex coding tasks with a fresh perspective. I’m constantly seeking opportunities to explore emerging technologies and redefine what’s achievable in the world of web development.
 </p>
 
